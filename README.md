@@ -15,7 +15,7 @@ Click the chart below to interact with the vegetation acreage and tide timeserie
 
 Color image analysis results
 
-[![Thesis_Githubreadme2](GEEMap1.png)](https://polanch190.github.io/GEE-Spatial-Temporal-Analysis-of-Changes-in-Marsh-Vegetation-Density-/GEEMap1.png)
+[![Thesis_Githubreadme2](https://raw.githubusercontent.com/polanch190/GEE-Spatial-Temporal-Analysis-of-Changes-in-Marsh-Vegetation-Density-/main/GEEMap1.PNG)](https://raw.githubusercontent.com/polanch190/GEE-Spatial-Temporal-Analysis-of-Changes-in-Marsh-Vegetation-Density-/main/GEEMap1.PNG)
 
 
 
